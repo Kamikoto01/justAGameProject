@@ -1,0 +1,16 @@
+import java.util.*;
+public class justAGameProject{
+
+     public static void main(String []args){
+        
+     }
+}
+
+public class HameCharacter {
+    String name;
+    int intellegenceValue;
+    int strenghtValue;
+    int agilityValue;
+
+    //...
+}
