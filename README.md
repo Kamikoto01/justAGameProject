@@ -1,2 +1,2 @@
-# demoGameProject
-Just a game
+# justAGameProject
+Just a game. 
